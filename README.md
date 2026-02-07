@@ -60,3 +60,9 @@ Customer churn is a critical challenge in the telecommunications industry, direc
 ---
 
 ## 📁 Repository Structure
+telecom-churn-analysis/
+├── Chun.ipynb
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+├── requirements.txt
+└── README.md
+
